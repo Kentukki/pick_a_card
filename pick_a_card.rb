@@ -1,5 +1,5 @@
 
 values = ['2','3','4','5','6','7','8','9','10','J','Q','K','A']
-suits = ['Diamonds', 'Hearts', 'Clubs', 'Spades'] # Å„°®, ó•‡¢®, ä‡•·‚®, è®™®
+suits = ['Diamonds', 'Hearts', 'Clubs', 'Spades'] # –ë—É–±–∏, –ß–µ—Ä–≤–∏, –ö—Ä–µ—Å—Ç–∏, –ü–∏–∫–∏
 
 puts "#{values.sample} of #{suits.sample}"
